@@ -22,6 +22,7 @@
     font-size: 34px;
     text-align: center;
     position: fixed;
+    top: 50px;
     background-color: red;
     transition: all 0.3 ease;
 }
@@ -44,6 +45,7 @@
     text-align: center;
     position: fixed;
     right: 0px;
+    top: 50px;
     background-color: red;
     transition: all 0.3 ease;
 }
